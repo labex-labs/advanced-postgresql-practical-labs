@@ -30,10 +30,28 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Ejercicios
 
-|   Índice | Nombre                                   | Dificultad   | Práctica                                                                                                                                          |
-|----------|------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Relaciones y Joins en PostgreSQL      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Iniciar Laboratorio</a>              |
-|       02 | 📖 Optimización de Índices en PostgreSQL | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Iniciar Laboratorio</a> |
+|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                                          |
+|----------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Relaciones y Joins en PostgreSQL                      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Iniciar Laboratorio</a>              |
+|       02 | 📖 Tipos de datos avanzados de PostgreSQL                | Principiante | Próximamente                                                                                                                                      |
+|       03 | 📖 Optimización de Índices en PostgreSQL                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Iniciar Laboratorio</a> |
+|       04 | 📖 Gestión de Transacciones en PostgreSQL                | Principiante | Próximamente                                                                                                                                      |
+|       05 | 📖 Gestión de Vistas en PostgreSQL                       | Principiante | Próximamente                                                                                                                                      |
+|       06 | 📖 Gestión de Roles y Permisos en PostgreSQL             | Principiante | Próximamente                                                                                                                                      |
+|       07 | 📖 Escritura Avanzada de Consultas en PostgreSQL         | Principiante | Próximamente                                                                                                                                      |
+|       08 | 📖 Automatización de Triggers en PostgreSQL              | Principiante | Próximamente                                                                                                                                      |
+|       09 | 📖 Copia de seguridad y restauración de PostgreSQL       | Principiante | Próximamente                                                                                                                                      |
+|       10 | 📖 Particionamiento de Tablas en PostgreSQL              | Principiante | Próximamente                                                                                                                                      |
+|       11 | 📖 Búsqueda de Texto Completo en PostgreSQL              | Principiante | Próximamente                                                                                                                                      |
+|       12 | 📖 Desarrollo de Funciones Almacenadas en PostgreSQL     | Principiante | Próximamente                                                                                                                                      |
+|       13 | 📖 Operaciones de Fecha y Hora en PostgreSQL             | Principiante | Próximamente                                                                                                                                      |
+|       14 | 📖 Extensión PostGIS para PostgreSQL                     | Principiante | Próximamente                                                                                                                                      |
+|       15 | 📖 Mantenimiento de la base de datos PostgreSQL          | Principiante | Próximamente                                                                                                                                      |
+|       16 | 📖 Replicación en Streaming de PostgreSQL                | Principiante | Próximamente                                                                                                                                      |
+|       17 | 📖 Manejo de Errores en PostgreSQL                       | Principiante | Próximamente                                                                                                                                      |
+|       18 | 📖 Configuración de Disparadores de Eventos en Postgr... | Principiante | Próximamente                                                                                                                                      |
+|       19 | 📖 Agrupamiento de Conexiones PgBouncer con PostgreSQ... | Principiante | Próximamente                                                                                                                                      |
+|       20 | 📖 Operaciones Avanzadas con JSON/JSONB en PostgreSQL    | Principiante | Próximamente                                                                                                                                      |
 
 ## Más
 
