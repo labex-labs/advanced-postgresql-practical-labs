@@ -30,10 +30,28 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 연습
 
-|   인덱스 | 이름                        | 난이도   | 연습                                                                                                                                    |
-|----------|-----------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 PostgreSQL 관계 및 조인  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-relationships-and-joins-550959'>실습 시작</a>              |
-|       02 | 📖 PostgreSQL 인덱스 최적화 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>실습 시작</a> |
+|   인덱스 | 이름                                 | 난이도   | 연습                                                                                                                                    |
+|----------|--------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 PostgreSQL 관계 및 조인           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-relationships-and-joins-550959'>실습 시작</a>              |
+|       02 | 📖 PostgreSQL Advanced Data Types    | 초급     | 곧 출시                                                                                                                                 |
+|       03 | 📖 PostgreSQL 인덱스 최적화          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>실습 시작</a> |
+|       04 | 📖 PostgreSQL 트랜잭션 관리          | 초급     | 곧 출시                                                                                                                                 |
+|       05 | 📖 PostgreSQL 뷰 관리                | 초급     | 곧 출시                                                                                                                                 |
+|       06 | 📖 PostgreSQL 역할 및 권한 관리      | 초급     | 곧 출시                                                                                                                                 |
+|       07 | 📖 PostgreSQL 고급 쿼리 작성         | 초급     | 곧 출시                                                                                                                                 |
+|       08 | 📖 PostgreSQL 트리거 자동화          | 초급     | 곧 출시                                                                                                                                 |
+|       09 | 📖 PostgreSQL 백업 및 복원           | 초급     | 곧 출시                                                                                                                                 |
+|       10 | 📖 PostgreSQL 테이블 파티셔닝        | 초급     | 곧 출시                                                                                                                                 |
+|       11 | 📖 PostgreSQL 전체 텍스트 검색       | 초급     | 곧 출시                                                                                                                                 |
+|       12 | 📖 PostgreSQL 저장 함수 개발         | 초급     | 곧 출시                                                                                                                                 |
+|       13 | 📖 PostgreSQL 날짜 및 시간 연산      | 초급     | 곧 출시                                                                                                                                 |
+|       14 | 📖 PostgreSQL PostGIS 확장 기능      | 초급     | 곧 출시                                                                                                                                 |
+|       15 | 📖 PostgreSQL 데이터베이스 유지 관리 | 초급     | 곧 출시                                                                                                                                 |
+|       16 | 📖 PostgreSQL 스트리밍 복제          | 초급     | 곧 출시                                                                                                                                 |
+|       17 | 📖 PostgreSQL 오류 처리              | 초급     | 곧 출시                                                                                                                                 |
+|       18 | 📖 PostgreSQL 이벤트 트리거 설정     | 초급     | 곧 출시                                                                                                                                 |
+|       19 | 📖 PostgreSQL PgBouncer 연결 풀링    | 초급     | 곧 출시                                                                                                                                 |
+|       20 | 📖 PostgreSQL JSON/JSONB 고급 연산   | 초급     | 곧 출시                                                                                                                                 |
 
 ## 더 보기
 
