@@ -30,10 +30,28 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 ## 演習
 
-|   インデックス | 名前                                      | 難易度   | 練習                                                                                                                                     |
-|----------------|-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 PostgreSQL のリレーションシップと JOIN | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-relationships-and-joins-550959'>ラボを開始</a>              |
-|             02 | 📖 PostgreSQL インデックス最適化          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>ラボを開始</a> |
+|   インデックス | 名前                                         | 難易度   | 練習                                                                                                                                     |
+|----------------|----------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 PostgreSQL のリレーションシップと JOIN    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-relationships-and-joins-550959'>ラボを開始</a>              |
+|             02 | 📖 PostgreSQL の高度なデータ型               | 初級     | 近日公開                                                                                                                                 |
+|             03 | 📖 PostgreSQL インデックス最適化             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>ラボを開始</a> |
+|             04 | 📖 PostgreSQL トランザクション管理           | 初級     | 近日公開                                                                                                                                 |
+|             05 | 📖 PostgreSQL ビュー管理                     | 初級     | 近日公開                                                                                                                                 |
+|             06 | 📖 PostgreSQL のロールと権限管理             | 初級     | 近日公開                                                                                                                                 |
+|             07 | 📖 PostgreSQL 高度なクエリ作成               | 初級     | 近日公開                                                                                                                                 |
+|             08 | 📖 PostgreSQL トリガーによる自動化           | 初級     | 近日公開                                                                                                                                 |
+|             09 | 📖 PostgreSQL のバックアップとリストア       | 初級     | 近日公開                                                                                                                                 |
+|             10 | 📖 PostgreSQL テーブルパーティショニング     | 初級     | 近日公開                                                                                                                                 |
+|             11 | 📖 PostgreSQL 全文検索                       | 初級     | 近日公開                                                                                                                                 |
+|             12 | 📖 PostgreSQL ストアドファンクション開発     | 初級     | 近日公開                                                                                                                                 |
+|             13 | 📖 PostgreSQL の日付と時刻の操作             | 初級     | 近日公開                                                                                                                                 |
+|             14 | 📖 PostgreSQL PostGIS 拡張機能               | 初級     | 近日公開                                                                                                                                 |
+|             15 | 📖 PostgreSQL データベースのメンテナンス     | 初級     | 近日公開                                                                                                                                 |
+|             16 | 📖 PostgreSQL ストリーミングレプリケーション | 初級     | 近日公開                                                                                                                                 |
+|             17 | 📖 PostgreSQL のエラー処理                   | 初級     | 近日公開                                                                                                                                 |
+|             18 | 📖 PostgreSQL イベントトリガーの設定         | 初級     | 近日公開                                                                                                                                 |
+|             19 | 📖 PostgreSQL PgBouncer 接続プーリング       | 初級     | 近日公開                                                                                                                                 |
+|             20 | 📖 PostgreSQL JSON/JSONB 高度な操作          | 初級     | 近日公開                                                                                                                                 |
 
 ## その他
 
