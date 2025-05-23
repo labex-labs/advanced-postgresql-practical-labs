@@ -30,10 +30,28 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 练习
 
-|   序号 | 名称                     | 难度   | 练习                                                                                                                                   |
-|--------|--------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 PostgreSQL 关系与连接 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-550959'>开始实验</a>              |
-|     02 | 📖 PostgreSQL 索引优化   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>开始实验</a> |
+|   序号 | 名称                              | 难度   | 练习                                                                                                                                   |
+|--------|-----------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 PostgreSQL 关系与连接          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-550959'>开始实验</a>              |
+|     02 | 📖 PostgreSQL 高级数据类型        | 初级   | 即将推出                                                                                                                               |
+|     03 | 📖 PostgreSQL 索引优化            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>开始实验</a> |
+|     04 | 📖 PostgreSQL 事务管理            | 初级   | 即将推出                                                                                                                               |
+|     05 | 📖 PostgreSQL 视图管理            | 初级   | 即将推出                                                                                                                               |
+|     06 | 📖 PostgreSQL 角色与权限管理      | 初级   | 即将推出                                                                                                                               |
+|     07 | 📖 PostgreSQL 高级查询编写        | 初级   | 即将推出                                                                                                                               |
+|     08 | 📖 PostgreSQL 触发器自动化        | 初级   | 即将推出                                                                                                                               |
+|     09 | 📖 PostgreSQL 备份与恢复          | 初级   | 即将推出                                                                                                                               |
+|     10 | 📖 PostgreSQL 表分区              | 初级   | 即将推出                                                                                                                               |
+|     11 | 📖 PostgreSQL 全文搜索            | 初级   | 即将推出                                                                                                                               |
+|     12 | 📖 PostgreSQL 存储函数开发        | 初级   | 即将推出                                                                                                                               |
+|     13 | 📖 PostgreSQL 日期和时间操作      | 初级   | 即将推出                                                                                                                               |
+|     14 | 📖 PostgreSQL PostGIS 扩展        | 初级   | 即将推出                                                                                                                               |
+|     15 | 📖 PostgreSQL 数据库维护          | 初级   | 即将推出                                                                                                                               |
+|     16 | 📖 PostgreSQL 流式复制            | 初级   | 即将推出                                                                                                                               |
+|     17 | 📖 PostgreSQL 错误处理            | 初级   | 即将推出                                                                                                                               |
+|     18 | 📖 PostgreSQL 事件触发器设置      | 初级   | 即将推出                                                                                                                               |
+|     19 | 📖 PostgreSQL PgBouncer 连接池化  | 初级   | 即将推出                                                                                                                               |
+|     20 | 📖 PostgreSQL JSON/JSONB 高级操作 | 初级   | 即将推出                                                                                                                               |
 
 ## 更多
 
