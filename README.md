@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Advanced PostgreSQL Practical Labs](https://cover-creator.labex.io/advanced-postgresql-practical-labs.png)](https://labex.io/en/courses/advanced-postgresql-practical-labs)
+[![Advanced PostgreSQL Practical Labs](https://cover-creator.labex.io/advanced-postgresql-practical-labs.png)](https://labex.io/courses/advanced-postgresql-practical-labs)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/advanced-postgresql-practical-labs)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/advanced-postgresql-practical-labs)
 
 In this course, master PostgreSQL through hands-on labs covering relationships, advanced data types, indexing, transactions, views, permissions, queries, triggers, backups, partitioning, full-text search, and more.
 
@@ -30,10 +30,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                                                                |
-|---------|---------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 PostgreSQL Relationships and Joins | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Start Lab</a>              |
-|      02 | 📖 PostgreSQL Index Optimization      | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Start Lab</a> |
+|   Index | Name                                  | Difficulty   | Practice                                                                                                                             |
+|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 PostgreSQL Relationships and Joins | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Start Lab</a>              |
+|      02 | 📖 PostgreSQL Index Optimization      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Start Lab</a> |
 
 ## More
 
