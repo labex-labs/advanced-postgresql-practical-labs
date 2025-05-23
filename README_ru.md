@@ -32,12 +32,12 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                  | Сложность   | Практика                                                                                                                                         |
 |----------|-------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 PostgreSQL: Связи и соединения (Joins) | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Начать Лабораторию</a>              |
-|       02 | 📖 Оптимизация индексов PostgreSQL        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Начать Лабораторию</a> |
+|       01 | 📖 PostgreSQL: Связи и соединения (Joins) | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Начать Лабораторию</a>              |
+|       02 | 📖 Оптимизация индексов PostgreSQL        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Начать Лабораторию</a> |
 
 ## Больше
 
-- 🔗 [PostgreSQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [PostgreSQL Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [PostgreSQL Free Tutorials](https://github.com/labex-labs/postgresql-free-tutorials)
+- 🔗 [PostgreSQL Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [PostgreSQL Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [PostgreSQL Бесплатные туториалы](https://github.com/labex-labs/postgresql-free-tutorials)
 
