@@ -32,12 +32,12 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                        | 난이도   | 연습                                                                                                                                    |
 |----------|-----------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 PostgreSQL 관계 및 조인  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-relationships-and-joins-550959'>실습 시작</a>              |
-|       02 | 📖 PostgreSQL 인덱스 최적화 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>실습 시작</a> |
+|       01 | 📖 PostgreSQL 관계 및 조인  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-relationships-and-joins-550959'>실습 시작</a>              |
+|       02 | 📖 PostgreSQL 인덱스 최적화 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>실습 시작</a> |
 
 ## 더 보기
 
-- 🔗 [PostgreSQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [PostgreSQL Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [PostgreSQL Free Tutorials](https://github.com/labex-labs/postgresql-free-tutorials)
+- 🔗 [PostgreSQL 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [PostgreSQL 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [PostgreSQL 무료 튜토리얼](https://github.com/labex-labs/postgresql-free-tutorials)
 
