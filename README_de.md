@@ -32,12 +32,12 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                | Schwierigkeit   | Übung                                                                                                                                       |
 |---------|-------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 PostgreSQL Beziehungen und Joins | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Labor Starten</a>              |
-|      02 | 📖 PostgreSQL Indexoptimierung      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Labor Starten</a> |
+|      01 | 📖 PostgreSQL Beziehungen und Joins | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Labor Starten</a>              |
+|      02 | 📖 PostgreSQL Indexoptimierung      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Labor Starten</a> |
 
 ## Mehr
 
-- 🔗 [PostgreSQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [PostgreSQL Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [PostgreSQL Free Tutorials](https://github.com/labex-labs/postgresql-free-tutorials)
+- 🔗 [PostgreSQL Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [PostgreSQL Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [PostgreSQL Kostenlose Tutorials](https://github.com/labex-labs/postgresql-free-tutorials)
 
