@@ -30,10 +30,28 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                                                             |
-|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 PostgreSQL Relationships and Joins | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Start Lab</a>              |
-|      02 | 📖 PostgreSQL Index Optimization      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Start Lab</a> |
+|   Index | Name                                         | Difficulty   | Practice                                                                                                                             |
+|---------|----------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 PostgreSQL Relationships and Joins        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Start Lab</a>              |
+|      02 | 📖 PostgreSQL Advanced Data Types            | Beginner     | Coming Soon                                                                                                                          |
+|      03 | 📖 PostgreSQL Index Optimization             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Start Lab</a> |
+|      04 | 📖 PostgreSQL Transaction Management         | Beginner     | Coming Soon                                                                                                                          |
+|      05 | 📖 PostgreSQL Views Management               | Beginner     | Coming Soon                                                                                                                          |
+|      06 | 📖 PostgreSQL Role and Permission Management | Beginner     | Coming Soon                                                                                                                          |
+|      07 | 📖 PostgreSQL Advanced Query Writing         | Beginner     | Coming Soon                                                                                                                          |
+|      08 | 📖 PostgreSQL Trigger Automation             | Beginner     | Coming Soon                                                                                                                          |
+|      09 | 📖 PostgreSQL Backup and Restore             | Beginner     | Coming Soon                                                                                                                          |
+|      10 | 📖 PostgreSQL Table Partitioning             | Beginner     | Coming Soon                                                                                                                          |
+|      11 | 📖 PostgreSQL Full-Text Search               | Beginner     | Coming Soon                                                                                                                          |
+|      12 | 📖 PostgreSQL Stored Function Development    | Beginner     | Coming Soon                                                                                                                          |
+|      13 | 📖 PostgreSQL Date and Time Operations       | Beginner     | Coming Soon                                                                                                                          |
+|      14 | 📖 PostgreSQL PostGIS Extension              | Beginner     | Coming Soon                                                                                                                          |
+|      15 | 📖 PostgreSQL Database Maintenance           | Beginner     | Coming Soon                                                                                                                          |
+|      16 | 📖 PostgreSQL Streaming Replication          | Beginner     | Coming Soon                                                                                                                          |
+|      17 | 📖 PostgreSQL Error Handling                 | Beginner     | Coming Soon                                                                                                                          |
+|      18 | 📖 PostgreSQL Event Trigger Setup            | Beginner     | Coming Soon                                                                                                                          |
+|      19 | 📖 PostgreSQL PgBouncer Connection Pooling   | Beginner     | Coming Soon                                                                                                                          |
+|      20 | 📖 PostgreSQL JSON/JSONB Advanced Operations | Beginner     | Coming Soon                                                                                                                          |
 
 ## More
 
