@@ -30,10 +30,28 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercícios
 
-|   Índice | Nome                                     | Dificuldade   | Prática                                                                                                                                   |
-|----------|------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Relacionamentos e Joins no PostgreSQL | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Iniciar Lab</a>              |
-|       02 | 📖 Otimização de Índices PostgreSQL      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Iniciar Lab</a> |
+|   Índice | Nome                                                 | Dificuldade   | Prática                                                                                                                                   |
+|----------|------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Relacionamentos e Joins no PostgreSQL             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Iniciar Lab</a>              |
+|       02 | 📖 PostgreSQL Advanced Data Types                    | Iniciante     | Em Breve                                                                                                                                  |
+|       03 | 📖 Otimização de Índices PostgreSQL                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Iniciar Lab</a> |
+|       04 | 📖 Gerenciamento de Transações PostgreSQL            | Iniciante     | Em Breve                                                                                                                                  |
+|       05 | 📖 Gerenciamento de Visões no PostgreSQL             | Iniciante     | Em Breve                                                                                                                                  |
+|       06 | 📖 Gerenciamento de Roles e Permissões no PostgreSQL | Iniciante     | Em Breve                                                                                                                                  |
+|       07 | 📖 Escrita de Consultas Avançadas em PostgreSQL      | Iniciante     | Em Breve                                                                                                                                  |
+|       08 | 📖 Automação de Triggers no PostgreSQL               | Iniciante     | Em Breve                                                                                                                                  |
+|       09 | 📖 Backup e Restauração do PostgreSQL                | Iniciante     | Em Breve                                                                                                                                  |
+|       10 | 📖 Particionamento de Tabelas PostgreSQL             | Iniciante     | Em Breve                                                                                                                                  |
+|       11 | 📖 Pesquisa de Texto Completo no PostgreSQL          | Iniciante     | Em Breve                                                                                                                                  |
+|       12 | 📖 Desenvolvimento de Funções Armazenadas PostgreSQL | Iniciante     | Em Breve                                                                                                                                  |
+|       13 | 📖 Operações de Data e Hora no PostgreSQL            | Iniciante     | Em Breve                                                                                                                                  |
+|       14 | 📖 Extensão PostGIS para PostgreSQL                  | Iniciante     | Em Breve                                                                                                                                  |
+|       15 | 📖 Manutenção do Banco de Dados PostgreSQL           | Iniciante     | Em Breve                                                                                                                                  |
+|       16 | 📖 Replicação de Streaming PostgreSQL                | Iniciante     | Em Breve                                                                                                                                  |
+|       17 | 📖 Tratamento de Erros no PostgreSQL                 | Iniciante     | Em Breve                                                                                                                                  |
+|       18 | 📖 Configuração de Gatilho de Evento PostgreSQL      | Iniciante     | Em Breve                                                                                                                                  |
+|       19 | 📖 Pooling de Conexões PostgreSQL PgBouncer          | Iniciante     | Em Breve                                                                                                                                  |
+|       20 | 📖 Operações Avançadas com JSON/JSONB no PostgreSQL  | Iniciante     | Em Breve                                                                                                                                  |
 
 ## Mais
 
