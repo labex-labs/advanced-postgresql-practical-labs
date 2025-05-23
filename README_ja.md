@@ -32,12 +32,12 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                      | 難易度   | 練習                                                                                                                                     |
 |----------------|-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 PostgreSQL のリレーションシップと JOIN | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-relationships-and-joins-550959'>ラボを開始</a>              |
-|             02 | 📖 PostgreSQL インデックス最適化          | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>ラボを開始</a> |
+|             01 | 📖 PostgreSQL のリレーションシップと JOIN | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-relationships-and-joins-550959'>ラボを開始</a>              |
+|             02 | 📖 PostgreSQL インデックス最適化          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [PostgreSQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [PostgreSQL Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [PostgreSQL Free Tutorials](https://github.com/labex-labs/postgresql-free-tutorials)
+- 🔗 [PostgreSQL プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [PostgreSQL プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [PostgreSQL 無料チュートリアル](https://github.com/labex-labs/postgresql-free-tutorials)
 
