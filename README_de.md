@@ -14,6 +14,31 @@ In diesem Kurs meistern Sie PostgreSQL anhand von praktischen Übungen, die Bezi
 ![Database](https://img.shields.io/badge/Database-whitesmoke?style=for-the-badge&logo=database)
 
 
+## Übungen
+
+|   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                                       |
+|---------|-------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 PostgreSQL Beziehungen und Joins                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Labor Starten</a>              |
+|      02 | 📖 🟢 PostgreSQL Erweiterte Datentypen                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550947'>Labor Starten</a> |
+|      03 | 📖 🟢 PostgreSQL Indexoptimierung                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Labor Starten</a> |
+|      04 | 📖 🟢 PostgreSQL Transaktionsverwaltung                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550964'>Labor Starten</a> |
+|      05 | 📖 🟢 PostgreSQL-Ansichten verwalten                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550966'>Labor Starten</a> |
+|      06 | 📖 🟢 PostgreSQL Rollen- und Berechtigungsverwaltung        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-role-and-permission-management-550960'>Labor Starten</a>       |
+|      07 | 📖 🟢 Fortgeschrittene PostgreSQL-Abfragen erstellen        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550948'>Labor Starten</a> |
+|      08 | 📖 🟢 PostgreSQL Trigger Automatisierung                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-trigger-automation-550965'>Labor Starten</a>                   |
+|      09 | 📖 🟢 PostgreSQL Backup und Wiederherstellung               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949'>Labor Starten</a> |
+|      10 | 📖 🟢 PostgreSQL Tabellen-Partitionierung                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550963'>Labor Starten</a> |
+|      11 | 📖 🟢 PostgreSQL Volltextsuche                              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550954'>Labor Starten</a> |
+|      12 | 📖 🟢 PostgreSQL Stored Function Entwicklung                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550961'>Labor Starten</a> |
+|      13 | 📖 🟢 PostgreSQL Datums- und Zeitoperationen                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951'>Labor Starten</a> |
+|      14 | 📖 🟢 PostgreSQL PostGIS-Erweiterung                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550958'>Labor Starten</a> |
+|      15 | 📖 🟢 PostgreSQL Datenbankwartung                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-database-maintenance-550950'>Labor Starten</a>                 |
+|      16 | 📖 🟢 PostgreSQL Streaming Replikation                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550962'>Labor Starten</a> |
+|      17 | 📖 🟢 PostgreSQL Fehlerbehandlung                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550952'>Labor Starten</a> |
+|      18 | 📖 🟢 PostgreSQL Event Trigger Einrichtung                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-event-trigger-setup-550953'>Labor Starten</a>                  |
+|      19 | 📖 🟢 PostgreSQL PgBouncer Connection Pooling (Verbindun... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550957'>Labor Starten</a> |
+|      20 | 📖 🟢 PostgreSQL JSON/JSONB Fortgeschrittene Operationen    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550956'>Labor Starten</a> |
+
 ## Umgebung
 
 LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
@@ -24,34 +49,9 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Übungen
-
-|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                       |
-|---------|----------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 PostgreSQL Beziehungen und Joins                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Labor Starten</a>              |
-|      02 | 📖 Fortgeschrittene Datentypen in PostgreSQL             | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      03 | 📖 PostgreSQL Indexoptimierung                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Labor Starten</a> |
-|      04 | 📖 PostgreSQL Transaktionsmanagement                     | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      05 | 📖 PostgreSQL View-Verwaltung                            | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      06 | 📖 PostgreSQL Rollen- und Berechtigungsverwaltung        | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      07 | 📖 Fortgeschrittene PostgreSQL-Abfragen erstellen        | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      08 | 📖 PostgreSQL Trigger Automatisierung                    | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      09 | 📖 PostgreSQL Backup und Wiederherstellung               | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      10 | 📖 PostgreSQL Tabellenpartitionierung                    | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      11 | 📖 PostgreSQL Volltextsuche                              | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      12 | 📖 PostgreSQL Stored Function Entwicklung                | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      13 | 📖 PostgreSQL Datums- und Zeitoperationen                | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      14 | 📖 PostgreSQL PostGIS-Erweiterung                        | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      15 | 📖 PostgreSQL Datenbankwartung                           | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      16 | 📖 PostgreSQL Streaming Replikation                      | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      17 | 📖 PostgreSQL Fehlerbehandlung                           | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      18 | 📖 PostgreSQL Event Trigger Einrichtung                  | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      19 | 📖 PostgreSQL PgBouncer Connection Pooling (Verbindun... | Anfänger        | Demnächst Verfügbar                                                                                                                         |
-|      20 | 📖 PostgreSQL JSON/JSONB Erweiterte Operationen          | Anfänger        | Demnächst Verfügbar                                                                                                                         |
 
 ## Mehr
 
