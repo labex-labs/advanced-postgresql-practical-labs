@@ -16,28 +16,28 @@
 
 ## 练习
 
-|   序号 | 名称                                    | 难度   | 练习                                                                                                                                   |
-|--------|-----------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🟢 PostgreSQL 关系与连接             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-550959'>开始实验</a>              |
-|     02 | 📖 🟢 PostgreSQL 高级数据类型           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550947'>开始实验</a> |
-|     03 | 📖 🟢 PostgreSQL 索引优化               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>开始实验</a> |
-|     04 | 📖 🟢 PostgreSQL 事务管理               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550964'>开始实验</a> |
-|     05 | 📖 🟢 PostgreSQL 视图管理               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550966'>开始实验</a> |
-|     06 | 📖 🔵 PostgreSQL 角色与权限管理         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-role-and-permission-management-550960'>开始实验</a>       |
-|     07 | 📖 🔵 PostgreSQL 高级查询编写           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550948'>开始实验</a> |
-|     08 | 📖 🔵 PostgreSQL 触发器自动化           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-trigger-automation-550965'>开始实验</a>                   |
-|     09 | 📖 🔵 PostgreSQL 备份与恢复             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949'>开始实验</a> |
-|     10 | 📖 🔵 PostgreSQL 表分区                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550963'>开始实验</a> |
-|     11 | 📖 🔵 PostgreSQL 全文搜索               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550954'>开始实验</a> |
-|     12 | 📖 🔵 PostgreSQL 存储函数开发           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550961'>开始实验</a> |
-|     13 | 📖 🔵 PostgreSQL 日期和时间操作         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951'>开始实验</a> |
-|     14 | 📖 🔵 在 PostgreSQL 中使用 PostGIS 扩展 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-using-the-postgis-extension-in-postgresql-550958'>开始实验</a>       |
-|     15 | 📖 🔵 PostgreSQL 数据库维护             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-database-maintenance-550950'>开始实验</a>                 |
-|     16 | 📖 🔵 PostgreSQL 流复制                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550962'>开始实验</a> |
-|     17 | 📖 🔵 PostgreSQL 错误处理               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550952'>开始实验</a> |
-|     18 | 📖 🔵 PostgreSQL 事件触发器设置         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-event-trigger-setup-550953'>开始实验</a>                  |
-|     19 | 📖 🔵 PostgreSQL PgBouncer 连接池管理   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550957'>开始实验</a> |
-|     20 | 📖 🔵 PostgreSQL JSON/JSONB 高级操作    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550956'>开始实验</a> |
+|   序号 | 名称                                  | 难度   | 练习                                                                                                                                   |
+|--------|---------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 🆓 PostgreSQL 关系与连接           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-relationships-and-joins-550959'>开始实验</a>              |
+|     02 | 📖 🆓 PostgreSQL 高级数据类型         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-advanced-data-types-550947'>开始实验</a>                  |
+|     03 | 📖 🆓 PostgreSQL 索引优化             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>开始实验</a> |
+|     04 | 📖 🆓 PostgreSQL 事务管理             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550964'>开始实验</a> |
+|     05 | 📖 🆓 PostgreSQL 视图管理             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550966'>开始实验</a> |
+|     06 | 📖 🆓 PostgreSQL 角色与权限管理       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-role-and-permission-management-550960'>开始实验</a>       |
+|     07 | 📖 🆓 PostgreSQL 高级查询编写         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-advanced-query-writing-550948'>开始实验</a>               |
+|     08 | 📖  PostgreSQL 触发器自动化           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-trigger-automation-550965'>开始实验</a>                   |
+|     09 | 📖  PostgreSQL 备份与恢复             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949'>开始实验</a> |
+|     10 | 📖  PostgreSQL 表分区                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550963'>开始实验</a> |
+|     11 | 📖  PostgreSQL 全文搜索               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550954'>开始实验</a> |
+|     12 | 📖  PostgreSQL 存储函数开发           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550961'>开始实验</a> |
+|     13 | 📖  PostgreSQL 日期和时间操作         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951'>开始实验</a> |
+|     14 | 📖  在 PostgreSQL 中使用 PostGIS 扩展 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-using-the-postgis-extension-in-postgresql-550958'>开始实验</a>       |
+|     15 | 📖  PostgreSQL 数据库维护             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-database-maintenance-550950'>开始实验</a>                 |
+|     16 | 📖  PostgreSQL 流复制                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550962'>开始实验</a> |
+|     17 | 📖  PostgreSQL 错误处理               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550952'>开始实验</a> |
+|     18 | 📖  PostgreSQL 事件触发器设置         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-postgresql-event-trigger-setup-550953'>开始实验</a>                  |
+|     19 | 📖  PostgreSQL PgBouncer 连接池管理   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550957'>开始实验</a> |
+|     20 | 📖  PostgreSQL JSON/JSONB 高级操作    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550956'>开始实验</a> |
 
 ## 学习环境
 
