@@ -18,26 +18,26 @@ In this course, master PostgreSQL through hands-on labs covering relationships, 
 
 |   Index | Name                                            | Difficulty   | Practice                                                                                                                             |
 |---------|-------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 PostgreSQL Relationships and Joins        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Start Lab</a>              |
-|      02 | 📖 🟢 PostgreSQL Advanced Data Types            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550947'>Start Lab</a> |
-|      03 | 📖 🟢 PostgreSQL Index Optimization             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Start Lab</a> |
-|      04 | 📖 🟢 PostgreSQL Transaction Management         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550964'>Start Lab</a> |
-|      05 | 📖 🟢 PostgreSQL Views Management               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550966'>Start Lab</a> |
-|      06 | 📖 🔵 PostgreSQL Role and Permission Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-role-and-permission-management-550960'>Start Lab</a>       |
-|      07 | 📖 🔵 PostgreSQL Advanced Query Writing         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550948'>Start Lab</a> |
-|      08 | 📖 🔵 PostgreSQL Trigger Automation             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-trigger-automation-550965'>Start Lab</a>                   |
-|      09 | 📖 🔵 PostgreSQL Backup and Restore             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949'>Start Lab</a> |
-|      10 | 📖 🔵 PostgreSQL Table Partitioning             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550963'>Start Lab</a> |
-|      11 | 📖 🔵 PostgreSQL Full-Text Search               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550954'>Start Lab</a> |
-|      12 | 📖 🔵 PostgreSQL Stored Function Development    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550961'>Start Lab</a> |
-|      13 | 📖 🔵 PostgreSQL Date and Time Operations       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951'>Start Lab</a> |
-|      14 | 📖 🔵 Using the PostGIS Extension in PostgreSQL | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-using-the-postgis-extension-in-postgresql-550958'>Start Lab</a>       |
-|      15 | 📖 🔵 PostgreSQL Database Maintenance           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-database-maintenance-550950'>Start Lab</a>                 |
-|      16 | 📖 🔵 PostgreSQL Streaming Replication          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550962'>Start Lab</a> |
-|      17 | 📖 🔵 PostgreSQL Error Handling                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550952'>Start Lab</a> |
-|      18 | 📖 🔵 PostgreSQL Event Trigger Setup            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-event-trigger-setup-550953'>Start Lab</a>                  |
-|      19 | 📖 🔵 PostgreSQL PgBouncer Connection Pooling   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550957'>Start Lab</a> |
-|      20 | 📖 🔵 PostgreSQL JSON/JSONB Advanced Operations | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550956'>Start Lab</a> |
+|      01 | 📖 🆓 PostgreSQL Relationships and Joins        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-relationships-and-joins-550959'>Start Lab</a>              |
+|      02 | 📖 🆓 PostgreSQL Advanced Data Types            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-advanced-data-types-550947'>Start Lab</a>                  |
+|      03 | 📖 🆓 PostgreSQL Index Optimization             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>Start Lab</a> |
+|      04 | 📖 🆓 PostgreSQL Transaction Management         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550964'>Start Lab</a> |
+|      05 | 📖 🆓 PostgreSQL Views Management               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550966'>Start Lab</a> |
+|      06 | 📖 🆓 PostgreSQL Role and Permission Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-role-and-permission-management-550960'>Start Lab</a>       |
+|      07 | 📖 🆓 PostgreSQL Advanced Query Writing         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-advanced-query-writing-550948'>Start Lab</a>               |
+|      08 | 📖  PostgreSQL Trigger Automation               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-trigger-automation-550965'>Start Lab</a>                   |
+|      09 | 📖  PostgreSQL Backup and Restore               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949'>Start Lab</a> |
+|      10 | 📖  PostgreSQL Table Partitioning               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550963'>Start Lab</a> |
+|      11 | 📖  PostgreSQL Full-Text Search                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550954'>Start Lab</a> |
+|      12 | 📖  PostgreSQL Stored Function Development      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550961'>Start Lab</a> |
+|      13 | 📖  PostgreSQL Date and Time Operations         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951'>Start Lab</a> |
+|      14 | 📖  Using the PostGIS Extension in PostgreSQL   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-using-the-postgis-extension-in-postgresql-550958'>Start Lab</a>       |
+|      15 | 📖  PostgreSQL Database Maintenance             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-database-maintenance-550950'>Start Lab</a>                 |
+|      16 | 📖  PostgreSQL Streaming Replication            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550962'>Start Lab</a> |
+|      17 | 📖  PostgreSQL Error Handling                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550952'>Start Lab</a> |
+|      18 | 📖  PostgreSQL Event Trigger Setup              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-postgresql-event-trigger-setup-550953'>Start Lab</a>                  |
+|      19 | 📖  PostgreSQL PgBouncer Connection Pooling     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550957'>Start Lab</a> |
+|      20 | 📖  PostgreSQL JSON/JSONB Advanced Operations   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550956'>Start Lab</a> |
 
 ## Environment
 
