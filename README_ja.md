@@ -16,28 +16,28 @@
 
 ## 演習
 
-|   インデックス | 名前                                              | 難易度   | 練習                                                                                                                                     |
-|----------------|---------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 PostgreSQL のリレーションシップと JOIN      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-relationships-and-joins-550959'>ラボを開始</a>              |
-|             02 | 📖 🟢 PostgreSQL 高度なデータ型                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550947'>ラボを開始</a> |
-|             03 | 📖 🟢 PostgreSQL インデックス最適化               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>ラボを開始</a> |
-|             04 | 📖 🟢 PostgreSQL トランザクション管理             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550964'>ラボを開始</a> |
-|             05 | 📖 🟢 PostgreSQL ビューの管理                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550966'>ラボを開始</a> |
-|             06 | 📖 🔵 PostgreSQL ロールと権限管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-role-and-permission-management-550960'>ラボを開始</a>       |
-|             07 | 📖 🔵 PostgreSQL 高度なクエリ作成                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550948'>ラボを開始</a> |
-|             08 | 📖 🔵 PostgreSQL トリガーによる自動化             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-trigger-automation-550965'>ラボを開始</a>                   |
-|             09 | 📖 🔵 PostgreSQL バックアップと復元               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949'>ラボを開始</a> |
-|             10 | 📖 🔵 PostgreSQL テーブルパーティショニング       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550963'>ラボを開始</a> |
-|             11 | 📖 🔵 PostgreSQL 全文検索                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550954'>ラボを開始</a> |
-|             12 | 📖 🔵 PostgreSQL ストアドファンクション開発       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550961'>ラボを開始</a> |
-|             13 | 📖 🔵 PostgreSQL の日付と時刻の操作               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951'>ラボを開始</a> |
-|             14 | 📖 🔵 PostgreSQL における PostGIS 拡張機能の使用  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-using-the-postgis-extension-in-postgresql-550958'>ラボを開始</a>       |
-|             15 | 📖 🔵 PostgreSQL データベースメンテナンス         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-database-maintenance-550950'>ラボを開始</a>                 |
-|             16 | 📖 🔵 PostgreSQL ストリーミングレプリケーション   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550962'>ラボを開始</a> |
-|             17 | 📖 🔵 PostgreSQL エラー処理                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550952'>ラボを開始</a> |
-|             18 | 📖 🔵 PostgreSQL イベントトリガーの設定           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-event-trigger-setup-550953'>ラボを開始</a>                  |
-|             19 | 📖 🔵 PostgreSQL PgBouncer コネクションプーリング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550957'>ラボを開始</a> |
-|             20 | 📖 🔵 PostgreSQL JSON/JSONB 高度な操作            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550956'>ラボを開始</a> |
+|   インデックス | 名前                                            | 難易度   | 練習                                                                                                                                     |
+|----------------|-------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 🆓 PostgreSQL のリレーションシップと JOIN    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-relationships-and-joins-550959'>ラボを開始</a>              |
+|             02 | 📖 🆓 PostgreSQL 高度データ型                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-advanced-data-types-550947'>ラボを開始</a>                  |
+|             03 | 📖 🆓 PostgreSQL インデックス最適化             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550955'>ラボを開始</a> |
+|             04 | 📖 🆓 PostgreSQL トランザクション管理           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550964'>ラボを開始</a> |
+|             05 | 📖 🆓 PostgreSQL ビューの管理                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550966'>ラボを開始</a> |
+|             06 | 📖 🆓 PostgreSQL ロールと権限管理               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-role-and-permission-management-550960'>ラボを開始</a>       |
+|             07 | 📖 🆓 PostgreSQL 高度なクエリ作成               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-advanced-query-writing-550948'>ラボを開始</a>               |
+|             08 | 📖  PostgreSQL トリガーによる自動化             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-trigger-automation-550965'>ラボを開始</a>                   |
+|             09 | 📖  PostgreSQL バックアップと復元               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550949'>ラボを開始</a> |
+|             10 | 📖  PostgreSQL テーブルパーティショニング       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550963'>ラボを開始</a> |
+|             11 | 📖  PostgreSQL 全文検索                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550954'>ラボを開始</a> |
+|             12 | 📖  PostgreSQL ストアドファンクション開発       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550961'>ラボを開始</a> |
+|             13 | 📖  PostgreSQL の日付と時刻の操作               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550951'>ラボを開始</a> |
+|             14 | 📖  PostgreSQL における PostGIS 拡張機能の使用  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-using-the-postgis-extension-in-postgresql-550958'>ラボを開始</a>       |
+|             15 | 📖  PostgreSQL データベースメンテナンス         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-database-maintenance-550950'>ラボを開始</a>                 |
+|             16 | 📖  PostgreSQL ストリーミングレプリケーション   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550962'>ラボを開始</a> |
+|             17 | 📖  PostgreSQL エラー処理                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550952'>ラボを開始</a> |
+|             18 | 📖  PostgreSQL イベントトリガーの設定           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-postgresql-event-trigger-setup-550953'>ラボを開始</a>                  |
+|             19 | 📖  PostgreSQL PgBouncer コネクションプーリング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550957'>ラボを開始</a> |
+|             20 | 📖  PostgreSQL JSON/JSONB 高度な操作            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550956'>ラボを開始</a> |
 
 ## 環境
 
