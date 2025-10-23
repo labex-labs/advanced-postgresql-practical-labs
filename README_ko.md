@@ -16,32 +16,32 @@
 
 ## 연습
 
-|   인덱스 | 이름                                      | 난이도   | 연습                                                                                                                              |
-|----------|-------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 PostgreSQL 관계 및 조인             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-relationships-and-joins-550959'>실습 시작</a>        |
-|       02 | 📖 🆓 PostgreSQL 고급 데이터 유형         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-advanced-data-types-550947'>실습 시작</a>            |
-|       03 | 📖 🆓 PostgreSQL 인덱스 최적화            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-index-optimization-550955'>실습 시작</a>             |
-|       04 | 📖 🆓 PostgreSQL 트랜잭션 관리            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-transaction-management-550964'>실습 시작</a>         |
-|       05 | 📖 🆓 PostgreSQL 뷰 관리                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-views-management-550966'>실습 시작</a>               |
-|       06 | 📖 🆓 PostgreSQL 역할 및 권한 관리        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-role-and-permission-management-550960'>실습 시작</a> |
-|       07 | 📖 🆓 PostgreSQL 고급 쿼리 작성           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-advanced-query-writing-550948'>실습 시작</a>         |
-|       08 | 📖  PostgreSQL 트리거 자동화              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-trigger-automation-550965'>실습 시작</a>             |
-|       09 | 📖  PostgreSQL 백업 및 복원               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-backup-and-restore-550949'>실습 시작</a>             |
-|       10 | 📖  PostgreSQL 테이블 파티셔닝            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-table-partitioning-550963'>실습 시작</a>             |
-|       11 | 📖  PostgreSQL 전문 검색                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-full-text-search-550954'>실습 시작</a>               |
-|       12 | 📖  PostgreSQL 저장 함수 개발             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-stored-function-development-550961'>실습 시작</a>    |
-|       13 | 📖  PostgreSQL 날짜 및 시간 연산          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-date-and-time-operations-550951'>실습 시작</a>       |
-|       14 | 📖  PostgreSQL 에서 PostGIS 확장 사용하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-using-the-postgis-extension-in-postgresql-550958'>실습 시작</a> |
-|       15 | 📖  PostgreSQL 데이터베이스 유지 관리     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-database-maintenance-550950'>실습 시작</a>           |
-|       16 | 📖  PostgreSQL 스트리밍 복제              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-streaming-replication-550962'>실습 시작</a>          |
-|       17 | 📖  PostgreSQL 오류 처리                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-error-handling-550952'>실습 시작</a>                 |
-|       18 | 📖  PostgreSQL 이벤트 트리거 설정         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-event-trigger-setup-550953'>실습 시작</a>            |
-|       19 | 📖  PostgreSQL PgBouncer 연결 풀링        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-pgbouncer-connection-pooling-550957'>실습 시작</a>   |
-|       20 | 📖  PostgreSQL JSON/JSONB 고급 작업       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-json-jsonb-advanced-operations-550956'>실습 시작</a> |
+|   인덱스 | 이름                                      | 난이도   | 연습                                                                                                                                                                   |
+|----------|-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 PostgreSQL 관계 및 조인             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-relationships-and-joins-550959?course=advanced-postgresql-practical-labs'>실습 시작</a>        |
+|       02 | 🧩 🆓 PostgreSQL 고급 데이터 유형         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-advanced-data-types-550947?course=advanced-postgresql-practical-labs'>실습 시작</a>            |
+|       03 | 🧩 🆓 PostgreSQL 인덱스 최적화            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-index-optimization-550955?course=advanced-postgresql-practical-labs'>실습 시작</a>             |
+|       04 | 🧩 🆓 PostgreSQL 트랜잭션 관리            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-transaction-management-550964?course=advanced-postgresql-practical-labs'>실습 시작</a>         |
+|       05 | 🧩 🆓 PostgreSQL 뷰 관리                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-views-management-550966?course=advanced-postgresql-practical-labs'>실습 시작</a>               |
+|       06 | 🧩 🆓 PostgreSQL 역할 및 권한 관리        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-role-and-permission-management-550960?course=advanced-postgresql-practical-labs'>실습 시작</a> |
+|       07 | 🧩 🆓 PostgreSQL 고급 쿼리 작성           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-advanced-query-writing-550948?course=advanced-postgresql-practical-labs'>실습 시작</a>         |
+|       08 | 🧩  PostgreSQL 트리거 자동화              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-trigger-automation-550965?course=advanced-postgresql-practical-labs'>실습 시작</a>             |
+|       09 | 🧩  PostgreSQL 백업 및 복원               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-backup-and-restore-550949?course=advanced-postgresql-practical-labs'>실습 시작</a>             |
+|       10 | 🧩  PostgreSQL 테이블 파티셔닝            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-table-partitioning-550963?course=advanced-postgresql-practical-labs'>실습 시작</a>             |
+|       11 | 🧩  PostgreSQL 전문 검색                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-full-text-search-550954?course=advanced-postgresql-practical-labs'>실습 시작</a>               |
+|       12 | 🧩  PostgreSQL 저장 함수 개발             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-stored-function-development-550961?course=advanced-postgresql-practical-labs'>실습 시작</a>    |
+|       13 | 🧩  PostgreSQL 날짜 및 시간 연산          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-date-and-time-operations-550951?course=advanced-postgresql-practical-labs'>실습 시작</a>       |
+|       14 | 🧩  PostgreSQL 에서 PostGIS 확장 사용하기 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-using-the-postgis-extension-in-postgresql-550958?course=advanced-postgresql-practical-labs'>실습 시작</a> |
+|       15 | 🧩  PostgreSQL 데이터베이스 유지 관리     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-database-maintenance-550950?course=advanced-postgresql-practical-labs'>실습 시작</a>           |
+|       16 | 🧩  PostgreSQL 스트리밍 복제              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-streaming-replication-550962?course=advanced-postgresql-practical-labs'>실습 시작</a>          |
+|       17 | 🧩  PostgreSQL 오류 처리                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-error-handling-550952?course=advanced-postgresql-practical-labs'>실습 시작</a>                 |
+|       18 | 🧩  PostgreSQL 이벤트 트리거 설정         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-event-trigger-setup-550953?course=advanced-postgresql-practical-labs'>실습 시작</a>            |
+|       19 | 🧩  PostgreSQL PgBouncer 연결 풀링        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-pgbouncer-connection-pooling-550957?course=advanced-postgresql-practical-labs'>실습 시작</a>   |
+|       20 | 🧩  PostgreSQL JSON/JSONB 고급 작업       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/postgresql-postgresql-json-jsonb-advanced-operations-550956?course=advanced-postgresql-practical-labs'>실습 시작</a> |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
